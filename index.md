@@ -1,15 +1,20 @@
 ## Self-Activating Fall Alert
 
-You can use the [editor on GitHub](https://github.com/FallAlert2017/alertwebsite.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Description
+The objective of this project is to create a wearable, user-friendly automatic fall detection and alert device. We are creating this device to give senior citizens peace of mind that help will arrive if they fall (even if they are unconscious).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Parts
+We used the following parts for our system:
 
-### Markdown
+- 9DOF Razor IMU
+- Bluetooth Mate Gold
+- 400 mAh Lithium-Ion Battery
+- JST Connector (Male-to-Male)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fall-Detection Algorithm
+In order to determine if a fall has occured, we needed to develop an algorithm to automatically detect falls based on IMU data. Based on research and testing, we determined that we can detect falls solely using acceleration data. By testing different scenarios such as sitting, standing, walking, lying down, etc. we were able to determine acceleration values that are present for normal every day actions. A fall, however, generates such high acceleration values that we can easily tell a fall apart from every day motions. We created an algorithm based on a threshold value, and if accelerations exceed this threshold, we can determine a fall has occured.
 
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
