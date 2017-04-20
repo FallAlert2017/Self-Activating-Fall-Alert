@@ -1,4 +1,6 @@
-## Self-Activating Fall Alert
+# Self-Activating Fall Alert
+
+## Introduction
 
 ### Description
 The objective of this project is to create a wearable, user-friendly automatic fall detection and alert device. We are creating this device to give senior citizens peace of mind that help will arrive if they fall (even if they are unconscious). The self-activating fall alarm must be a wearable, wireless, device which collects acceleration and orientation data of the user to depicts if a fall has resulted. The device must autonomously send alerts to a series of caregivers when an incident has occurred. 
@@ -16,3 +18,6 @@ In order to determine if a fall has occured, we needed to develop an algorithm t
 
 ### Fall-Response Algorithm
 Using postfix, we are able to send email messages, which can then be converted to SMS through email-to-text services provided by phone carriers. Once the fall flag is high, we send an email addressed to a phone number connected to a carrier’s email, which automatically converts the message to SMS and sends to the recipient’s phone.
+
+## Deliverables
+
