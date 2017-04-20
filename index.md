@@ -21,6 +21,5 @@ Using postfix, we are able to send email messages, which can then be converted t
 
 ## Deliverables
 
-### Student Expo Abstract
-https://drive.google.com/open?id=1rmnBMbi7Vgef7hAQouYrMFZXwnYra3wWOVZ60pHazl4
+[Student Expo Abstract](https://drive.google.com/open?id=1rmnBMbi7Vgef7hAQouYrMFZXwnYra3wWOVZ60pHazl4)
 
