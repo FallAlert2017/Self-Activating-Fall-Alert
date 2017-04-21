@@ -1,7 +1,8 @@
 # Self-Activating Fall Alert
 
 
-[Deliverables](https://fallalert2017.github.io/Self-Activating-Fall-Alert/deliverables)
+[Deliverables](docs/deliverables.md)
+
 
 ## Introduction
 
