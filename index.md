@@ -1,7 +1,7 @@
 # Self-Activating Fall Alert
 
 
-[Deliverables](docs/deliverables.md)
+[Deliverables](./deliverables.md)
 
 
 ## Introduction
