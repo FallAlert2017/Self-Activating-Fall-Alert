@@ -2,7 +2,7 @@
 [Home](./index.md)/[Introduction](./introduction.md)/[Deliverables](./deliverables.md)/[Results](./results.md)/[About Us](./aboutus.md)/[Contact](contact.md)
 
 ### Michael McGrath
-![alt text](CAPTURE.JPG)
+![alt text](CAPTURE.PNG)
 
 E-mail: mmcgrath@mail.bradley.edu
 
