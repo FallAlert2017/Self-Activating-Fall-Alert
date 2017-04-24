@@ -1,5 +1,4 @@
 # Self-Activating Fall Alert
 
-[Introduction](./introduction.md)
+[Home](./index.md) --- [Introduction](./introduction.md) --- [Deliverables](./deliverables.md)
 
-[Deliverables](./deliverables.md)
