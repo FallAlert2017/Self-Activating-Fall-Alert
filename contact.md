@@ -2,6 +2,8 @@
 [Home](./index.md)/[Introduction](./introduction.md)/[Deliverables](./deliverables.md)/[Results](./results.md)/[About Us](./aboutus.md)/[Contact](contact.md)
 
 ### Michael McGrath
+![alt text](CAPTURE.JPG)
+
 E-mail: mmcgrath@mail.bradley.edu
 
 Phone: (708) 269-8107
