@@ -1,4 +1,4 @@
-[Home](./index.md)---[Introduction](./introduction.md)---[Deliverables](./deliverables.md)
+[Home](./index.md) --- [Introduction](./introduction.md) --- [Deliverables](./deliverables.md)
 
 ## Deliverables
 
