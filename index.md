@@ -1,4 +1,4 @@
 # Self-Activating Fall Alert
 
-[Home](./index.md)    [Introduction](./introduction.md)   [Deliverables](./deliverables.md)   [Results](./results.md)   [About Us](./aboutus.md)    [Contact](contact.md)
+[Home](./index.md)/[Introduction](./introduction.md) /[Deliverables](./deliverables.md) /[Results](./results.md) /[About Us](./aboutus.md)  /[Contact](contact.md)
 
