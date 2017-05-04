@@ -14,9 +14,11 @@ We used the following parts for our system:
 - JST Connector (Male-to-Male)
 
 ![picture of components](./PastedGraphic-3.png)
+
 Picture of individual components of system.
 
-![picture of box](./DeviceBox.png)
+![picture of box](./DeviceBox.PNG)
+
 Picture of Components inside prototype box.
 
 ### Fall-Detection Algorithm
