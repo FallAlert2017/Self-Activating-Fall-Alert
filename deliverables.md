@@ -7,7 +7,7 @@
 
 [Student Expo Abstract](./StudentExpoAbstract.pdf)
 
-[Student Expo Poster]()
+[Student Expo Poster](./EXPO_Poster_fall detection.pptx.pdf)
 
 [Final Report](./FinalReport_2.docx.pdf)
 
