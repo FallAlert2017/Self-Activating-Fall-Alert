@@ -5,3 +5,6 @@
 [Student Expo Abstract](./StudentExpoAbstract.pdf)
 
 [Final Report](./FinalReport_2.docx.pdf)
+
+[Parts List](./PartsList.pdf)
+
