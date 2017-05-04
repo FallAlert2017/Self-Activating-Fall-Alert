@@ -8,6 +8,10 @@ In addition, the fall detection algorithm does not have the capability catch slo
 
 From the study, another observation that was made was the placement of the device on the user. It was found that when the user fell on the side that the device was positioned (i.e.  right side of the waist), the acceleration was much more skewed. The reasoning for this is because the device was not placed at the user’s center of gravity. 
 
+![Fall_plot](./Fall_plot.PNG)
+
+_Figure showing a normal fall's acceleration values, whose magnitude exceeds our threshold and sends a fall alert._
+
 
 ### Conclusion
 
