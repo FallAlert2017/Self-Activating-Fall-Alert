@@ -15,11 +15,11 @@ We used the following parts for our system:
 
 ![picture of components](./PastedGraphic-3.png)
 
-Picture of individual components of system.
+_Individual Components of System_
 
 ![picture of box](./DeviceBox.PNG)
 
-Picture of Components inside prototype box.
+_Components Inside Prototype Box_
 
 ### Fall-Detection Algorithm
 In order to determine if a fall has occured, we needed to develop an algorithm to automatically detect falls based on IMU data. Based on research and testing, we determined that we can detect falls solely using acceleration data. By testing different scenarios such as sitting, standing, walking, lying down, etc. we were able to determine acceleration values that are present for normal every day actions. A fall, however, generates such high acceleration values that we can distinguish an actual fall apart from an every day motion. We created an algorithm based on a threshold value, and if magnitude of acceleration exceeds this threshold, we can determine a fall has occured.
