@@ -27,5 +27,5 @@ In order to determine if a fall has occured, we needed to develop an algorithm t
 ### Fall-Response Algorithm
 Using postfix, we are able to send email messages, which can then be converted to SMS through email-to-text services provided by phone carriers. Once the fall flag is high, we send an email addressed to a phone number connected to a carrier’s email, which automatically converts the message to SMS and sends to the recipient’s phone.
 
-[Link to screen capture of device running (with Matlab Plots)](https://www.youtube.com/watch?v=yvb8EgXs7Rw)
+## [Link to screen capture of device running (with Matlab Plots)](https://www.youtube.com/watch?v=yvb8EgXs7Rw)
 
