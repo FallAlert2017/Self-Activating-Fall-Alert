@@ -2,9 +2,14 @@
 
 ## Deliverables
 
+
+[Part List](./PartList-Description.docx.docx.pdf)
+
 [Student Expo Abstract](./StudentExpoAbstract.pdf)
+
+[Student Expo Poster]()
 
 [Final Report](./FinalReport_2.docx.pdf)
 
-[Part List](./PartList-Description.docx.docx.pdf)
+
 
