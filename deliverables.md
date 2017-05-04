@@ -6,5 +6,5 @@
 
 [Final Report](./FinalReport_2.docx.pdf)
 
-[Parts List](./PartList-Description.docx.docx.pdf)
+[Part List](./PartList-Description.docx.docx.pdf)
 
